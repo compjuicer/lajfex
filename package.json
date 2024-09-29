@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "express": "^4.19.2",
     "node-lifx-lan": "^0.5.1"
   }
